@@ -1,0 +1,15 @@
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\bin\Debug\net6.0\fun2.exe
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\bin\Debug\net6.0\fun2.deps.json
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\bin\Debug\net6.0\fun2.runtimeconfig.json
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\bin\Debug\net6.0\fun2.dll
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\bin\Debug\net6.0\fun2.pdb
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.csproj.AssemblyReference.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.AssemblyInfoInputs.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.AssemblyInfo.cs
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.csproj.CoreCompileInputs.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.dll
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\refint\fun2.dll
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.pdb
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\fun2.genruntimeconfig.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun2\obj\Debug\net6.0\ref\fun2.dll
